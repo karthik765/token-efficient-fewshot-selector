@@ -1,0 +1,5 @@
+{"id":"billing_refund","input":"I was charged twice this month, can I get a refund?","output":"Apologize, ask for invoice ID, and open billing refund workflow."}
+{"id":"password_reset","input":"I forgot my password and cannot log in","output":"Provide reset link and verify account ownership steps."}
+{"id":"shipping_delay","input":"My package is late and tracking stopped updating","output":"Acknowledge delay, check carrier status, and offer replacement/refund options."}
+{"id":"cancel_subscription","input":"Please cancel my subscription at the end of this cycle","output":"Confirm cancellation timing and explain retention of account access."}
+{"id":"api_rate_limit","input":"Our API calls are getting 429 errors","output":"Explain rate limit policy and suggest backoff + higher tier options."}
