@@ -43,3 +43,6 @@ python3 fewshot_selector.py \
 ## Notes
 - Token counting is estimated (`~chars/4`) for speed.
 - Swap in a model-specific tokenizer later if you need exact counts.
+
+---
+Built with OpenClaw for karthik765.
